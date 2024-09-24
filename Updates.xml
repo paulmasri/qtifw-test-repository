@@ -1,0 +1,21 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.openupmusic.clarion</Name>
+  <DisplayName>Clarion</DisplayName>
+  <Description>Clarion, the accessible musical instrument.</Description>
+  <Version>1.22.17-1</Version>
+  <ReleaseDate>2024-03-21</ReleaseDate>
+  <Virtual>false</Virtual>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdaterComponent>true</UpdaterComponent>
+  <UpdateFile CompressedSize="58538814" OS="Any" UncompressedSize="140988543"/>
+  <DownloadableArchives>bin.7z,plugins.7z,qml.7z,translations.7z</DownloadableArchives>
+  <SHA1>36405447b0a4026558cf1778df10526d3c02ae26</SHA1>
+ </PackageUpdate>
+ <SHA1>7519e6f2190ed0419961b79e46767d5d67fcf0c2</SHA1>
+ <MetadataName>2024-09-24-1440_meta.7z</MetadataName>
+</Updates>
