@@ -8,14 +8,15 @@
   <Description>Clarion, the accessible musical instrument.</Description>
   <Version>1.22.17-1</Version>
   <ReleaseDate>2024-03-21</ReleaseDate>
-  <Virtual>false</Virtual>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdaterComponent>true</UpdaterComponent>
-  <UpdateFile CompressedSize="58538814" OS="Any" UncompressedSize="140988543"/>
+  <UpdateFile CompressedSize="58538683" OS="Any" UncompressedSize="140988543"/>
   <DownloadableArchives>bin.7z,plugins.7z,qml.7z,translations.7z</DownloadableArchives>
-  <SHA1>36405447b0a4026558cf1778df10526d3c02ae26</SHA1>
+  <Licenses>
+   <License file="LicenceAgreement.txt" name="Clarion licence agreement"/>
+  </Licenses>
+  <SHA1>73e2b8d82cad320632c50c0e7206d0110e1ce168</SHA1>
  </PackageUpdate>
- <SHA1>7519e6f2190ed0419961b79e46767d5d67fcf0c2</SHA1>
- <MetadataName>2024-09-24-1440_meta.7z</MetadataName>
+ <SHA1>0de58f0130cdc7a1e6c8c49e3d4a23979bac19fb</SHA1>
+ <MetadataName>2024-11-19-1319_meta.7z</MetadataName>
 </Updates>
