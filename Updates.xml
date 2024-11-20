@@ -17,19 +17,19 @@
   </Licenses>
   <SHA1>28b190ee737096ed2f7867b59bd5ba108a1fae20</SHA1>
  </PackageUpdate>
+ <SHA1>9811c28d5939ad5a8587efd2b0f19941c38760fa</SHA1>
+ <MetadataName>2024-11-20-1149_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>org.openupmusic.maintenancetool</Name>
   <DisplayName>Clarion Updater</DisplayName>
   <Description>Maintenance tool for updating Clarion.</Description>
-  <Version>1.0.0-1</Version>
+  <Version>1.0.0-2</Version>
   <ReleaseDate>2024-11-20</ReleaseDate>
   <Essential>true</Essential>
   <Virtual>true</Virtual>
   <Script>installscript.qs</Script>
   <UpdateFile CompressedSize="15733260" OS="Any" UncompressedSize="48661032"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>eff68e1df930d33c9216bafa82fa6120ac9053fc</SHA1>
+  <SHA1>f2a91df3c39b4b6cfc8a7795117687069990a37f</SHA1>
  </PackageUpdate>
- <SHA1>d499dc2f6e8f3f1fa921bd6f3d9b713452c369d3</SHA1>
- <MetadataName>2024-11-20-1142_meta.7z</MetadataName>
 </Updates>
