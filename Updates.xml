@@ -2,21 +2,34 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>402ea28b4b0937170cd629a04c3deaa9dc295c18</SHA1>
- <MetadataName>2024-11-19-1402_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>org.openupmusic.clarion</Name>
   <DisplayName>Clarion</DisplayName>
-  <Description>Clarion, the musical instrument.</Description>
-  <Version>1.22.17-2</Version>
-  <ReleaseDate>2024-03-22</ReleaseDate>
+  <Description>Clarion, the accessible musical instrument.</Description>
+  <Version>1.22.17-1</Version>
+  <ReleaseDate>2024-03-21</ReleaseDate>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="58538645" OS="Any" UncompressedSize="140988543"/>
+  <UpdateFile CompressedSize="58538629" OS="Any" UncompressedSize="140988543"/>
   <DownloadableArchives>bin.7z,plugins.7z,qml.7z,translations.7z</DownloadableArchives>
   <Licenses>
    <License file="LicenceAgreement.txt" name="Clarion licence agreement"/>
   </Licenses>
-  <SHA1>854733aa66b5273aa982104956e7f55d45bfb6ff</SHA1>
+  <SHA1>28b190ee737096ed2f7867b59bd5ba108a1fae20</SHA1>
  </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.openupmusic.maintenancetool</Name>
+  <DisplayName>Clarion Updater</DisplayName>
+  <Description>Maintenance tool for updating Clarion.</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2024-11-20</ReleaseDate>
+  <Essential>true</Essential>
+  <Virtual>true</Virtual>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="15733260" OS="Any" UncompressedSize="48661032"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>eff68e1df930d33c9216bafa82fa6120ac9053fc</SHA1>
+ </PackageUpdate>
+ <SHA1>d499dc2f6e8f3f1fa921bd6f3d9b713452c369d3</SHA1>
+ <MetadataName>2024-11-20-1142_meta.7z</MetadataName>
 </Updates>
