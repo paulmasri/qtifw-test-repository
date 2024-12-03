@@ -2,23 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>2ceda95078e67827b8fd3df28060fe3d9cc6c276</SHA1>
- <MetadataName>2024-11-25-1715_meta.7z</MetadataName>
- <PackageUpdate>
-  <Name>org.openupmusic.clarion</Name>
-  <DisplayName>Clarion</DisplayName>
-  <Description>Clarion, the accessible musical instrument.</Description>
-  <Version>1.24.0-1</Version>
-  <ReleaseDate>2024-11-05</ReleaseDate>
-  <ForcedInstallation>true</ForcedInstallation>
-  <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="81268008" OS="Any" UncompressedSize="185125320"/>
-  <DownloadableArchives>bin.7z,plugins.7z,qml.7z,translations.7z</DownloadableArchives>
-  <Licenses>
-   <License file="LicenceAgreement.txt" name="Clarion licence agreement"/>
-  </Licenses>
-  <SHA1>d204ffdeccfb45c573c12bbb76049a5b6189e064</SHA1>
- </PackageUpdate>
+ <SHA1>a536fdcbfd19b31c122861685ff758930c97e023</SHA1>
+ <MetadataName>2024-12-03-1600_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>org.openupmusic.maintenancetool</Name>
   <DisplayName>Clarion Updater</DisplayName>
@@ -31,5 +16,20 @@
   <UpdateFile CompressedSize="15733260" OS="Any" UncompressedSize="48661032"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
   <SHA1>664ea4103fa890c6f986d000c880e2765f64c9a3</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.openupmusic.clarion</Name>
+  <DisplayName>Clarion</DisplayName>
+  <Description>Clarion, the accessible musical instrument.</Description>
+  <Version>1.24.0-3</Version>
+  <ReleaseDate>2024-03-21</ReleaseDate>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="58538150" OS="Any" UncompressedSize="140988543"/>
+  <DownloadableArchives>bin.7z,plugins.7z,qml.7z,translations.7z</DownloadableArchives>
+  <Licenses>
+   <License file="LicenceAgreement.txt" name="Clarion licence agreement"/>
+  </Licenses>
+  <SHA1>8a6ed69704dc32568d588adc3adf005bb349f0f1</SHA1>
  </PackageUpdate>
 </Updates>
