@@ -2,8 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>88afc51822a0ce022b9ea8fba57b869aba334cd2</SHA1>
- <MetadataName>2024-12-03-1624_meta.7z</MetadataName>
+ <SHA1>cece012ff1f84a6b4a3c9cdd01a2efaae27657cf</SHA1>
+ <MetadataName>2024-12-04-1517_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>org.openupmusic.clarion</Name>
   <DisplayName>Clarion</DisplayName>
@@ -21,15 +21,15 @@
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.openupmusic.maintenancetool</Name>
-  <DisplayName>Clarion Updater</DisplayName>
+  <DisplayName>ClarionUpdater</DisplayName>
   <Description>Maintenance tool for updating Clarion.</Description>
-  <Version>1.0.3-2</Version>
-  <ReleaseDate>2024-12-03</ReleaseDate>
+  <Version>1.0.4-2</Version>
+  <ReleaseDate>2024-12-04</ReleaseDate>
   <Essential>true</Essential>
   <Virtual>true</Virtual>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="15742202" OS="Any" UncompressedSize="48673770"/>
+  <UpdateFile CompressedSize="15742367" OS="Any" UncompressedSize="48673968"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>0a0ec8b1254c89f2cb41425ebc2e6e34b8ba4dfa</SHA1>
+  <SHA1>59923bd79ddd7342e321dfdb16115e5292769bfa</SHA1>
  </PackageUpdate>
 </Updates>
